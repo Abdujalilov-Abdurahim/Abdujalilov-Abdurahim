@@ -1,7 +1,7 @@
 <h2 align="left"># 👋 Hi there, I'm Abdurahim Abdujalilov<br>
   <br>- 👨‍💻 I'm a backend developer with strong experience in cybersecurity 
   <br>- 👀 I’m interested in **Hacking**, **Pentesting**, and **Backend Development**  
-  <br>- 🧠 Currently learning: PHP, Laravel, Python, and Offensive Security topics like PEN-100 / PEN-200  
+  <br>- 🧠 Currently learning: PHP, Laravel, Python, and Offensive Security topics
   <br>- 🔭 Working on: Security tools for Kali Linux, PHP-based web apps 
   <br>- ⚙️ Technologies:</h2>
 
